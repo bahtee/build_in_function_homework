@@ -11,4 +11,4 @@ def main():
     x=3*(7/5-9/4)
     return x
 
-print(main())    
+print(round(main(),3))    
